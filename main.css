@@ -1,0 +1,57 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    background-image: url("monkey-doing-coding-kabic55n6a0wai1i.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;   
+}
+.container
+{
+    margin: 3px auto;
+    text-align: center;
+    -webkit-text-stroke: 2px red;
+    color: black;
+    font-weight: bolder;
+    font-family: sans-serif;
+}
+.container2 table
+{
+    margin: 3px auto;
+    text-align: center;
+}
+.container2 table .lang
+{
+    font-weight: bold;
+    text-align: left;
+    font-family: sans-serif;
+    color: blue;
+}
+.container2 table th
+{
+    color: aqua;
+}
+.container2 table input
+{
+    color: magenta;
+    font-size: medium;
+    font-family: sans-serif;
+    font-weight: bold;
+    height: 25px;
+    text-align: center;
+    border: 3px solid aqua;
+    border-radius: 5px;
+    background: transparent;
+    outline: none;   
+}
+.container2 table button
+{
+    height: 25px;
+    background: red;
+    font-size: large;
+}
